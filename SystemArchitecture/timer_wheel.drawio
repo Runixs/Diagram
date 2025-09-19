@@ -197,12 +197,12 @@
         <mxCell id="1" parent="0" />
         <mxCell id="oFQ_how2LxkNcKQ-NRh1-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3240" y="-40" as="sourcePoint" />
+            <mxPoint x="-3160" y="-40" as="sourcePoint" />
             <mxPoint x="-2760" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oFQ_how2LxkNcKQ-NRh1-4" value="arm64" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-3360" y="-120" width="120" height="40" as="geometry" />
+        <mxCell id="oFQ_how2LxkNcKQ-NRh1-4" value="arm64" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-3280" y="-120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFQ_how2LxkNcKQ-NRh1-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oFQ_how2LxkNcKQ-NRh1-6" target="oFQ_how2LxkNcKQ-NRh1-7">
           <mxGeometry relative="1" as="geometry" />
@@ -234,14 +234,14 @@
             <mxPoint x="-2760" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oFQ_how2LxkNcKQ-NRh1-10" value="dt-bindings" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oFQ_how2LxkNcKQ-NRh1-10" value="dt-bindings" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-2680" y="-240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFQ_how2LxkNcKQ-NRh1-11" value="arm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-3360" y="40" width="120" height="40" as="geometry" />
+        <mxCell id="oFQ_how2LxkNcKQ-NRh1-11" value="arm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-3280" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFQ_how2LxkNcKQ-NRh1-12" value="device tree" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-3100" y="-240" width="120" height="40" as="geometry" />
+        <mxCell id="oFQ_how2LxkNcKQ-NRh1-12" value="device tree" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-3000" y="-240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFQ_how2LxkNcKQ-NRh1-13" value="interrupt-controller/arm-gic.h" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2720" y="-80" width="200" height="40" as="geometry" />
